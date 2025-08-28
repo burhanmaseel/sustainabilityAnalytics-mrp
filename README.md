@@ -15,8 +15,6 @@ A comprehensive Python-based sustainability analytics platform for monitoring an
 - [Project Structure](#project-structure)
 - [Development](#development)
 - [Models and Analytics](#models-and-analytics)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
