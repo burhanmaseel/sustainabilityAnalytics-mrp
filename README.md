@@ -48,7 +48,7 @@ This project provides a comprehensive analytics platform for sustainability moni
 
 ### Advanced Analytics
 - Statistical modeling and time series analysis
-- Machine learning models (XGBoost, Random Forest, SVM)
+- Machine learning models (XGBoost, Random Forest)
 - Deep learning models (LSTM, GRU, Transformer networks)
 - Feature engineering and data preprocessing
 
